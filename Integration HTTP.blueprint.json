@@ -335,7 +335,7 @@
             "module": "telegram:SendPhoto",
             "version": 1,
             "parameters": {
-                "__IMTCONN__": 5415506
+                "__IMTCONN__": YOUR_TELEGRAM_CONNECTION_ID
             },
             "mapper": {
                 "data": "{{2.data}}",
